@@ -1,0 +1,12 @@
+.header {
+    background: var(--vinho);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    color: var(--gray-300);
+    font-size: 2rem;
+}
+
+.header img {
+    height: 2rem; 
+}
